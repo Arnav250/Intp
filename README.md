@@ -4,7 +4,7 @@
 |--------------|---------------------------|----------------------------|-----------------------------------------------------------------------|
 | **Anima**    | 60–70%                    | 50–60%                     | responsive designs and interactive elements.                |
 | **Locofy**   | 70–80%                    | 60–75%                     | Tailwind + React-based component development.               |
-| **Builder.io** | 50–60%                  | 50–60%                     | Clean code               |
+| **Builder.io** | 50–60%                  | 50–60%                     | Clean code + Easy to use for simple sites               |
 
 ## Best tool Overall
 
