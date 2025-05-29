@@ -1,5 +1,5 @@
-Ai Efforts percentage reduction using the tools
+Ai Efforts percentage reduction using the tools /n
 
-Builder.io
-Anima 
-Locofy
+Builder.io /n
+Anima /n
+Locofy 
