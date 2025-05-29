@@ -10,7 +10,7 @@
 
 - **For HTML & CSS : Anima**
 
-- **For React.js : Locofy:**
+- **For React.js : Locofy**
 
 ## Links
 
