@@ -1,0 +1,30 @@
+.submit-button {
+  width: 240px;
+  height: 48px;
+  margin-top: 72px;
+  background: var(--primary-color);
+  border: none;
+  border-radius: 40px;
+  color: var(--background-white);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.submit-button:hover {
+  background: #b91419;
+  transform: translateY(-1px);
+}
+
+.submit-button:active {
+  transform: translateY(0);
+}
+
+.submit-button:disabled {
+  background: #cccccc;
+  cursor: not-allowed;
+  transform: none;
+}
