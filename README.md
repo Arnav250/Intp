@@ -9,11 +9,9 @@ This table summarizes the approximate reduction in manual coding efforts when us
 | **Anima**      | 60–70%                    | 50–60%                     | Good for responsive designs            |
 | **Locofy**     | 70–80%                    | 60–75%                     | Tailwind + React-based component development.               |
 | **Builder.io** | 50–60%                    | 50–60%                     | Generates clean code           |
-| **Codia**      | **~90%**                  | **~90%**                   | faster to develop, better for simple sites |
-| **Codigma**    | **~80–90%**               | **~80–90%**                | Converts 30+ pages in 5 min; can be used for simple sites|
-| **v0 (Vercel)**| **~50–60%**               | **~50–60%**                | Good for simple UI, helps with deployment also|
-
-> 💡 Percentages are estimates based on reported speed-ups and user feedback. Your mileage may vary depending on design complexity, tooling integration, and required refinements.
+| **Codia**      | 90%              | 90%                  | faster to develop, better for simple sites |
+| **Codigma**    | 80–90%             | 80–90%               | Converts 30+ pages in 5 min; can be used for simple sites|
+| **v0 (Vercel)**| 50–60%          | 50–60%               | Good for simple UI, helps with deployment also|
 
 ## Tool Use-Case Summary
 
